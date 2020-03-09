@@ -1,0 +1,17 @@
+rm *.cor *.txt
+sh mine.sh add
+sh mine.sh aff
+sh mine.sh and
+sh mine.sh fork
+sh mine.sh ld
+sh mine.sh ldi
+sh mine.sh lfork
+sh mine.sh live
+sh mine.sh lld
+sh mine.sh lldi
+sh mine.sh or
+sh mine.sh st
+sh mine.sh sti
+sh mine.sh sub
+sh mine.sh xor
+sh mine.sh zjmp
