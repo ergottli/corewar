@@ -56,5 +56,5 @@ Usage: ./asm <sourcefile.s>
 
 ### disassembler
 ```
-./diasm 'filename.cor'
+./dis_asm 'filename.cor'
 ```
