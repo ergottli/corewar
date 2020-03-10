@@ -58,3 +58,6 @@ Usage: ./asm <sourcefile.s>
 ```
 ./dis_asm 'filename.cor'
 ```
+
+## Visualisation
+![corewar example](https://media.giphy.com/media/LMhlsb2m8WKA5u3JrO/giphy.gif)
